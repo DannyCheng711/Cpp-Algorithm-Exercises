@@ -1,27 +1,20 @@
 # Cpp algorithm exercise
 
-This repository contains a collection of challenging **C++ algorithmic exercises** exploring various **search, backtracking, and logic-solving techniques**.  
-Each subproject focuses on a different type of problem, from word-based puzzles to spatial routing and encoding challenges.
+This repository contains a collection of challenging **C++ algorithmic exercises** exploring various **search, backtracking, and logic-solving techniques**. Each subproject focuses on a different type of problem, from word-based puzzles to spatial routing and encoding challenges.
 
 ---
 
-### 🧠 Categories
+### Categories
 
-#### 🔤 Word & String Puzzles
-`doublets`, `soundex`, `scrabble`, `palindrome`, `solitaire`, `gogen`  
-Exercises involving word transformations, lexical constraints, or pattern-based string analysis.
+- **Word & String Puzzles:** `doublets`, `soundex`, `scrabble`, `palindrome`, `solitaire`, `gogen`. Exercises involving word transformations, lexical constraints, or pattern-based string analysis.
 
-#### 🧭 Pathfinding & Logic Routing
-`laser`, `sokoban`  
-Grid-based or geometric puzzles emphasizing movement planning, reflection logic, or obstacle navigation.
+- **Pathfinding & Logic Routing:** `laser`, `sokoban`. Grid-based or geometric puzzles emphasizing movement planning, reflection logic, or obstacle navigation.
 
-#### 🔐 Encoding & Pattern Reasoning
-`stamp`  
-Symbolic reasoning and encoding/decoding problems requiring constraint satisfaction and combinatorial search.
+- **Encoding & Pattern Reasoning:** `stamp`. Symbolic reasoning and encoding/decoding problems requiring constraint satisfaction and combinatorial search.
 
 ---
 
-## Project Structure
+### Project Structure
 
 ```
 MOCKEXAM/
